@@ -1,0 +1,271 @@
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.205:7926 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.205:7974 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.205:16276 - "GET /wiki HTTP/1.1" 404 Not Found
+INFO:     123.14.126.131:59284 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+00:00:00 ⏰ [定时任务] 开始执行参考图保活上传...
+00:00:00 ✅ [定时任务] 参考图 1 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/27/E5/oYYBAGlzmwCAIISTABAy8xidGMs949.png
+00:00:01 ✅ [定时任务] 参考图 2 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/27/E5/oYYBAGlzmwCAH7alABUkz0aLF5o822.png
+00:00:01 ✅ [定时任务] 参考图 3 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/27/E5/oYYBAGlzmwGAN31DAA8pW2TABec175.png
+00:00:02 ✅ [定时任务] 参考图 4 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/27/E5/oYYBAGlzmwGACu-KAA4BUvSCQIM229.png
+00:00:02 🎉 [定时任务] 参考图池已刷新，当前最新 URL 列表: 
+[
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/27/E5/oYYBAGlzmwCAIISTABAy8xidGMs949.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/27/E5/oYYBAGlzmwCAH7alABUkz0aLF5o822.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/27/E5/oYYBAGlzmwGAN31DAA8pW2TABec175.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/27/E5/oYYBAGlzmwGACu-KAA4BUvSCQIM229.png"
+]
+INFO:     35.203.211.211:59268 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.153.124:37396 - "GET / HTTP/1.1" 404 Not Found
+INFO:     66.132.153.124:37410 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.153.124:33168 - "GET /security.txt HTTP/1.1" 404 Not Found
+INFO:     162.216.150.55:64230 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.50:51888 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.50:11604 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.146.50:11626 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.50:31092 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     147.185.132.104:58848 - "GET /metrics HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+00:00:00 ⏰ [定时任务] 开始执行参考图保活上传...
+00:00:00 ✅ [定时任务] 参考图 1 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/30/0B/oYYBAGl07ICADvQHABAy8xidGMs909.png
+00:00:01 ✅ [定时任务] 参考图 2 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/30/0B/oYYBAGl07IGAYwfkABUkz0aLF5o570.png
+00:00:02 ✅ [定时任务] 参考图 3 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/30/0B/oYYBAGl07IKAbFP6AA8pW2TABec177.png
+00:00:03 ✅ [定时任务] 参考图 4 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/30/0B/oYYBAGl07IOAOMZrAA4BUvSCQIM113.png
+00:00:03 🎉 [定时任务] 参考图池已刷新，当前最新 URL 列表: 
+[
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/30/0B/oYYBAGl07ICADvQHABAy8xidGMs909.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/30/0B/oYYBAGl07IGAYwfkABUkz0aLF5o570.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/30/0B/oYYBAGl07IKAbFP6AA8pW2TABec177.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/30/0B/oYYBAGl07IOAOMZrAA4BUvSCQIM113.png"
+]
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.210:15102 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.210:17406 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.210:17434 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.210:47608 - "GET /robots.txt HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     112.124.56.43:49078 - "POST /sdk HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     112.124.56.43:49076 - "GET /nmaplowercheck1769307798 HTTP/1.1" 404 Not Found
+INFO:     112.124.56.43:49096 - "GET / HTTP/1.0" 404 Not Found
+INFO:     112.124.56.43:49116 - "GET /HNAP1 HTTP/1.1" 404 Not Found
+INFO:     112.124.56.43:49130 - "GET /evox/about HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     112.124.56.43:50018 - "GET / HTTP/1.0" 404 Not Found
+INFO:     112.124.56.43:50042 - "GET / HTTP/1.1" 404 Not Found
+INFO:     147.185.132.149:61534 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.216.149.235:61364 - "GET /metrics HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.48:9650 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.48:9662 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.48:28022 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     85.217.140.12:36674 - "GET / HTTP/1.1" 404 Not Found
+00:00:00 ⏰ [定时任务] 开始执行参考图保活上传...
+00:00:00 ✅ [定时任务] 参考图 1 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/36/50/oYYBAGl2PgCACrulABAy8xidGMs312.png
+00:00:01 ✅ [定时任务] 参考图 2 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/36/50/oYYBAGl2PgCALaHQABUkz0aLF5o806.png
+00:00:02 ✅ [定时任务] 参考图 3 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/36/50/oYYBAGl2PgGAbjpEAA8pW2TABec826.png
+00:00:02 ✅ [定时任务] 参考图 4 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/36/50/oYYBAGl2PgKAFlrYAA4BUvSCQIM433.png
+00:00:02 🎉 [定时任务] 参考图池已刷新，当前最新 URL 列表: 
+[
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/36/50/oYYBAGl2PgCACrulABAy8xidGMs312.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/36/50/oYYBAGl2PgCALaHQABUkz0aLF5o806.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/36/50/oYYBAGl2PgGAbjpEAA8pW2TABec826.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/36/50/oYYBAGl2PgKAFlrYAA4BUvSCQIM433.png"
+]
+INFO:     147.185.133.132:60018 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.118:47264 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.118:47278 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.118:57524 - "GET /security.txt HTTP/1.1" 404 Not Found
+INFO:     137.184.169.247:50714 - "GET /squid-internal-mgr/cachemgr.cgi HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.200:25574 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.200:57858 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.200:11200 - "GET /login HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     123.160.223.75:19071 - "GET / HTTP/1.1" 404 Not Found
+INFO:     147.185.132.178:57530 - "GET / HTTP/1.1" 404 Not Found
+00:00:00 ⏰ [定时任务] 开始执行参考图保活上传...
+00:00:00 ✅ [定时任务] 参考图 1 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/3F/D0/oYYBAGl3j4CASpMLABAy8xidGMs151.png
+00:00:01 ✅ [定时任务] 参考图 2 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/3F/D0/oYYBAGl3j4GAAocDABUkz0aLF5o335.png
+00:00:01 ✅ [定时任务] 参考图 3 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/3F/D0/oYYBAGl3j4GAe66WAA8pW2TABec916.png
+00:00:02 ✅ [定时任务] 参考图 4 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/3F/D0/oYYBAGl3j4GAT6EIAA4BUvSCQIM043.png
+00:00:02 🎉 [定时任务] 参考图池已刷新，当前最新 URL 列表: 
+[
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/3F/D0/oYYBAGl3j4CASpMLABAy8xidGMs151.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/3F/D0/oYYBAGl3j4GAAocDABUkz0aLF5o335.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/3F/D0/oYYBAGl3j4GAe66WAA8pW2TABec916.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/3F/D0/oYYBAGl3j4GAT6EIAA4BUvSCQIM043.png"
+]
+INFO:     35.203.211.241:61314 - "GET /metrics HTTP/1.1" 404 Not Found
+INFO:     172.236.228.193:46692 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     101.251.219.3:37693 - "GET / HTTP/1.1" 404 Not Found
+INFO:     101.251.219.3:37693 - "GET / HTTP/1.1" 404 Not Found
+INFO:     101.251.219.3:60569 - "GET /v1/models HTTP/1.1" 404 Not Found
+INFO:     101.251.219.3:60569 - "GET /v1/models HTTP/1.1" 404 Not Found
+INFO:     101.251.219.3:43543 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.120:39138 - "GET / HTTP/1.1" 404 Not Found
+INFO:     206.168.34.120:39152 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.120:24060 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     147.185.133.216:64352 - "GET / HTTP/1.1" 404 Not Found
+INFO:     124.133.23.66:61454 - "GET /docs HTTP/1.1" 200 OK
+INFO:     124.133.23.66:61458 - "GET /openapi.json HTTP/1.1" 200 OK
+13:55:07 📂 收到文件批量请求: 2 个
+13:55:07 ⬆️ [后台] 原图开始静默上传: image5.jpeg
+13:55:07 ⬆️ [后台] 原图开始静默上传: lQDPKGTG8akYuQ_NBQDNAtCwTHNDJpgR1-gJLRgAtlYSAQ_720_1280.jpg
+13:55:07 ▶️ [处理] image5.jpeg (108KB) | 开始计时
+13:55:07 ▶️ [处理] lQDPKGTG8akYuQ_NBQDNAtCwTHNDJpgR1-gJLRgAtlYSAQ_720_1280.jpg (147KB) | 开始计时
+正在检测文本方向...
+正在检测文本方向...
+文本方向检测失败: (1, 'Tesseract Open Source OCR Engine v4.1.1 with Leptonica Warning: Invalid resolution 0 dpi. Using 70 instead. Estimating resolution as 272 Warning. Invalid resolution 0 dpi. Using 70 instead. Too few characters. Skipping this page Error during processing.')
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (689, 786) -> (3000, 1824)
+13:55:08 ☁️ [后台] 启动静默上传矫正图...
+检测到的旋转角度: 0 度
+文本方向正确，无需旋转。
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (525, 319) -> (3000, 1824)
+13:55:08 📊 [准备阶段] GPU矫正:0.46s | 转Base64:0.00s | 原图大小:1.1MB
+13:55:08 🎨 [静态生成] 准备请求...
+13:55:08 🎨 [内容锁定] 准备请求...
+13:55:08 🎨 [参考图] 准备请求...
+13:55:08 ☁️ [后台] 启动静默上传矫正图...
+13:55:08 📊 [准备阶段] GPU矫正:0.63s | 转Base64:0.00s | 原图大小:0.8MB
+13:55:08 🎨 [静态生成] 准备请求...
+13:55:08 🎨 [内容锁定] 准备请求...
+13:55:08 🎨 [参考图] 准备请求...
+13:55:12 👁️ [背景检测] 排队:0.00s | API传输+推理:4.60s
+13:55:17 👁️ [背景检测] 排队:0.00s | API传输+推理:9.13s
+13:55:44 📡 [静态生成] 排队:0.00s | API传输+推理:36.58s
+正在检测文本方向...
+检测到的旋转角度: 0 度
+文本方向正确，无需旋转。
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (2971, 1768) -> (3000, 1824)
+13:55:46 ✅ [静态生成] 总:38.2s | API:36.6s | 下载:0.1s | 裁切:1.1s | 上传:0.4s
+13:55:58 📡 [静态生成] 排队:0.00s | API传输+推理:50.87s
+正在检测文本方向...
+检测到的旋转角度: 0 度
+文本方向正确，无需旋转。
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (2944, 1724) -> (3000, 1824)
+13:56:00 ✅ [静态生成] 总:52.4s | API:50.9s | 下载:0.1s | 裁切:1.0s | 上传:0.5s
+13:56:14 👁️ [布局分析] 排队:0.00s | API传输+推理:65.98s
+13:56:14 🎨 [视觉分析] 准备请求...
+13:56:19 📡 [参考图] 排队:0.00s | API传输+推理:70.96s
+13:56:20 ✅ [参考图] 总:71.8s | API:71.0s | 下载:0.1s | 裁切:0.1s | 上传:0.6s
+13:56:21 📡 [内容锁定] 排队:0.00s | API传输+推理:73.17s
+13:56:22 ✅ [内容锁定] 总:73.8s | API:73.2s | 下载:0.1s | 裁切:0.1s | 上传:0.5s
+13:56:29 📡 [内容锁定] 排队:0.00s | API传输+推理:81.34s
+正在检测文本方向...
+检测到的旋转角度: 0 度
+文本方向正确，无需旋转。
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (2170, 1270) -> (3000, 1824)
+13:56:30 ✅ [内容锁定] 总:82.8s | API:81.3s | 下载:0.1s | 裁切:0.9s | 上传:0.4s
+13:56:32 📡 [参考图] 排队:0.00s | API传输+推理:83.90s
+13:56:32 ✅ [参考图] 总:84.7s | API:83.9s | 下载:0.1s | 裁切:0.1s | 上传:0.6s
+13:56:35 👁️ [布局分析] 排队:0.00s | API传输+推理:87.43s
+13:56:35 🎨 [视觉分析] 准备请求...
+13:56:48 📡 [视觉分析] 排队:0.00s | API传输+推理:34.43s
+正在检测文本方向...
+文本方向检测失败: (1, 'Tesseract Open Source OCR Engine v4.1.1 with Leptonica Warning: Invalid resolution 0 dpi. Using 70 instead. Estimating resolution as 746 Warning. Invalid resolution 0 dpi. Using 70 instead. Too few characters. Skipping this page Error during processing.')
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (2394, 1451) -> (3000, 1824)
+13:56:49 ✅ [视觉分析] 总:35.8s | API:34.4s | 下载:0.1s | 裁切:0.9s | 上传:0.4s
+13:56:49 ⏳ 正在回收后台上传任务...
+13:56:49 🎉 [结束] lQDPKGTG8akYuQ_NBQDNAtCwTHNDJpgR1-gJLRgAtlYSAQ_720_1280.jpg 处理完毕 | 全程耗时: 102.4s
+13:57:20 📡 [视觉分析] 排队:0.00s | API传输+推理:45.17s
+正在检测文本方向...
+检测到的旋转角度: 0 度
+文本方向正确，无需旋转。
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (2950, 1774) -> (3000, 1824)
+13:57:22 ✅ [视觉分析] 总:46.8s | API:45.2s | 下载:0.1s | 裁切:1.1s | 上传:0.4s
+13:57:22 ⏳ 正在回收后台上传任务...
+13:57:22 🎉 [结束] image5.jpeg 处理完毕 | 全程耗时: 134.9s
+INFO:     124.133.23.66:31098 - "POST /restore_batch_file HTTP/1.1" 200 OK
+INFO:     147.185.133.130:64040 - "GET /metrics HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     101.36.114.222:50846 - "GET / HTTP/1.1" 404 Not Found
+INFO:     101.36.114.222:59988 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     101.36.114.222:59992 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     101.36.114.222:60004 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     101.36.114.222:60014 - "GET /sse HTTP/1.1" 404 Not Found
+INFO:     101.36.114.222:60026 - "GET /mcp HTTP/1.1" 404 Not Found
+INFO:     101.36.114.222:47162 - "GET /mcp-sse HTTP/1.1" 404 Not Found
+INFO:     101.36.114.222:47174 - "GET /get_server_info HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     123.160.223.75:6224 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.194:63886 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.194:47812 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.153.118:43060 - "GET / HTTP/1.1" 404 Not Found
+INFO:     66.132.153.118:43068 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.153.118:2334 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     121.41.165.219:47906 - "GET / HTTP/1.1" 404 Not Found
+INFO:     121.41.165.219:47914 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     31.14.32.5:44178 - "GET / HTTP/1.1" 404 Not Found
+00:00:00 ⏰ [定时任务] 开始执行参考图保活上传...
+00:00:00 ✅ [定时任务] 参考图 1 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/49/3A/oYYBAGl44QCAI0kLABAy8xidGMs585.png
+00:00:01 ✅ [定时任务] 参考图 2 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/49/3A/oYYBAGl44QGAal8VABUkz0aLF5o372.png
+00:00:01 ✅ [定时任务] 参考图 3 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/49/3A/oYYBAGl44QGAO6sYAA8pW2TABec996.png
+00:00:02 ✅ [定时任务] 参考图 4 上传成功 -> https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/49/3A/oYYBAGl44QKAOWERAA4BUvSCQIM123.png
+00:00:02 🎉 [定时任务] 参考图池已刷新，当前最新 URL 列表: 
+[
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/49/3A/oYYBAGl44QCAI0kLABAy8xidGMs585.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/49/3A/oYYBAGl44QGAal8VABUkz0aLF5o372.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/49/3A/oYYBAGl44QGAO6sYAA8pW2TABec996.png",
+  "https://tt.36588.com.cn/mcard/assets/resource/imgs/normal/printdiy1/M00/49/3A/oYYBAGl44QKAOWERAA4BUvSCQIM123.png"
+]
+WARNING:  Invalid HTTP request received.
+INFO:     91.196.152.122:38501 - "GET / HTTP/1.1" 404 Not Found
+INFO:     91.231.89.233:38871 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.220:22950 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.220:22964 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.220:17730 - "GET /wiki HTTP/1.1" 404 Not Found
+INFO:     182.119.228.121:58458 - "GET / HTTP/1.1" 404 Not Found

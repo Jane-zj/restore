@@ -1,0 +1,168 @@
+
+INFO:     124.133.23.66:65217 - "GET /docs HTTP/1.1" 200 OK
+INFO:     124.133.23.66:65220 - "GET /openapi.json HTTP/1.1" 200 OK
+▶️ [处理] image5.jpeg
+正在检测文本方向...
+检测到的旋转角度: 0 度
+文本方向正确，无需旋转。
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (525, 319) -> (3000, 1824)
+正在检测文本方向...
+检测到的旋转角度: 0 度
+文本方向正确，无需旋转。
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (2968, 1768) -> (3000, 1824)
+☁️ [静态生成] 开始上传(2张)...
+⏱️ [静态生成] 耗时详情: 生图+下载34.4s | 裁切1.6s | 上传1.2s | 总计37.1s
+☁️ [参考图] 开始上传(2张)...
+⏱️ [参考图] 耗时详情: 生图+下载69.8s | 裁切0.1s | 上传1.1s | 总计71.0s
+正在检测文本方向...
+检测到的旋转角度: 0 度
+文本方向正确，无需旋转。
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (2301, 1378) -> (3000, 1824)
+☁️ [视觉分析] 开始上传(2张)...
+⏱️ [视觉分析] 耗时详情: 生图+下载46.6s | 裁切1.5s | 上传1.2s | 总计49.3s
+☁️ [内容锁定] 开始上传(2张)...
+⏱️ [内容锁定] 耗时详情: 生图+下载83.0s | 裁切0.0s | 上传1.2s | 总计84.2s
+INFO:     124.133.23.66:65236 - "POST /restore_batch_file HTTP/1.1" 200 OK
+▶️ [处理] card.jpg
+正在检测文本方向...
+文本方向检测失败: (1, 'Tesseract Open Source OCR Engine v4.1.1 with Leptonica Warning: Invalid resolution 0 dpi. Using 70 instead. Estimating resolution as 251 Warning. Invalid resolution 0 dpi. Using 70 instead. Too few characters. Skipping this page Error during processing.')
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (1130, 675) -> (3000, 1824)
+正在检测文本方向...
+检测到的旋转角度: 0 度
+文本方向正确，无需旋转。
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (2979, 1795) -> (3000, 1824)
+☁️ [静态生成] 开始上传(2张)...
+⏱️ [静态生成] 耗时详情: 生图+下载36.2s | 裁切1.4s | 上传1.3s | 总计38.9s
+正在检测文本方向...
+检测到的旋转角度: 0 度
+文本方向正确，无需旋转。
+正在使用ResNet处理图像...
+正在调整尺寸 (LANCZOS): (2921, 1701) -> (3000, 1824)
+☁️ [视觉分析] 开始上传(2张)...
+⏱️ [视觉分析] 耗时详情: 生图+下载41.1s | 裁切1.5s | 上传1.3s | 总计43.9s
+☁️ [参考图] 开始上传(2张)...
+⏱️ [参考图] 耗时详情: 生图+下载76.7s | 裁切0.1s | 上传1.2s | 总计77.9s
+☁️ [内容锁定] 开始上传(2张)...
+⏱️ [内容锁定] 耗时详情: 生图+下载82.8s | 裁切0.1s | 上传1.2s | 总计84.0s
+INFO:     127.0.0.1:53194 - "POST /restore_batch_file HTTP/1.1" 200 OK
+INFO:     195.3.222.78:47524 - "POST / HTTP/1.1" 404 Not Found
+INFO:     195.3.222.78:37886 - "POST /_next HTTP/1.1" 404 Not Found
+INFO:     195.3.222.78:60146 - "POST /api HTTP/1.1" 404 Not Found
+INFO:     195.3.222.78:53336 - "POST /_next/server HTTP/1.1" 404 Not Found
+INFO:     195.3.222.78:52002 - "POST /app HTTP/1.1" 404 Not Found
+INFO:     195.3.222.78:39958 - "POST /api/route HTTP/1.1" 404 Not Found
+INFO:     185.203.240.58:34444 - "GET /manager/version HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     113.141.85.104:46980 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.57:50992 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.57:37096 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.57:28138 - "GET /wiki HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     91.230.168.151:34123 - "GET / HTTP/1.1" 404 Not Found
+INFO:     91.230.168.4:52863 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     185.203.240.58:37356 - "GET /manager/version HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.60:21958 - "GET / HTTP/1.1" 404 Not Found
+INFO:     206.168.34.60:27580 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     206.168.34.60:17996 - "GET /.well-known/security.txt HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     45.79.115.134:52413 - "GET / HTTP/1.1" 404 Not Found
+INFO:     66.228.53.136:59036 - "GET / HTTP/1.1" 404 Not Found
+INFO:     185.203.240.58:27626 - "GET /manager/version HTTP/1.1" 404 Not Found
+INFO:     162.216.150.196:62356 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.153.116:53446 - "GET / HTTP/1.1" 404 Not Found
+INFO:     66.132.153.116:53448 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.153.116:58512 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     35.203.211.211:64440 - "GET /metrics HTTP/1.1" 404 Not Found
+INFO:     35.203.211.207:59164 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     112.124.56.43:46454 - "GET /nmaplowercheck1769307798 HTTP/1.1" 404 Not Found
+INFO:     112.124.56.43:46476 - "GET / HTTP/1.0" 404 Not Found
+INFO:     112.124.56.43:46490 - "POST /sdk HTTP/1.1" 404 Not Found
+INFO:     112.124.56.43:46498 - "GET /HNAP1 HTTP/1.1" 404 Not Found
+INFO:     112.124.56.43:46514 - "GET /evox/about HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     112.124.56.43:47414 - "GET / HTTP/1.0" 404 Not Found
+INFO:     112.124.56.43:47438 - "GET / HTTP/1.1" 404 Not Found
+INFO:     35.203.210.222:59854 - "GET / HTTP/1.1" 404 Not Found
+INFO:     85.217.140.16:60656 - "GET / HTTP/1.1" 404 Not Found
+INFO:     35.203.211.218:63974 - "GET /metrics HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.153.121:3796 - "GET / HTTP/1.1" 404 Not Found
+INFO:     66.132.153.121:3814 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     66.132.153.121:55632 - "GET /robots.txt HTTP/1.1" 404 Not Found
+INFO:     117.50.177.49:28840 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.208:57422 - "GET / HTTP/1.1" 404 Not Found
+INFO:     162.142.125.208:57440 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.208:10736 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     137.184.169.247:54636 - "GET /squid-internal-mgr/cachemgr.cgi HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.183:49638 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.183:49644 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.183:4912 - "GET /.well-known/security.txt HTTP/1.1" 404 Not Found
+INFO:     185.253.7.228:35484 - "GET /manager/version HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.37:11072 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.37:18698 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.37:36280 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     162.216.150.49:58948 - "GET / HTTP/1.1" 404 Not Found
+INFO:     147.185.133.130:65498 - "GET /metrics HTTP/1.1" 404 Not Found
+INFO:     185.253.7.228:60432 - "GET /manager/version HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.203:1834 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.203:1836 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.203:60732 - "GET /sitemap.xml HTTP/1.1" 404 Not Found
+INFO:     121.41.167.115:40014 - "GET / HTTP/1.1" 404 Not Found
+INFO:     121.41.167.115:40016 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     117.50.177.49:44332 - "GET / HTTP/1.1" 404 Not Found
+INFO:     85.217.140.4:36400 - "GET / HTTP/1.1" 404 Not Found
+INFO:     35.203.210.251:63106 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.176:1846 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.176:44564 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.138.176:44584 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.138.176:12228 - "GET /security.txt HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.49:60388 - "GET / HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.49:50786 - "GET / HTTP/1.1" 404 Not Found
+INFO:     167.94.146.49:50790 - "PRI %2A HTTP/2.0" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     167.94.146.49:50864 - "GET /.well-known/security.txt HTTP/1.1" 404 Not Found
+INFO:     162.216.149.63:60900 - "GET / HTTP/1.1" 404 Not Found
+INFO:     106.75.11.34:35548 - "GET / HTTP/1.1" 404 Not Found
+INFO:     106.75.11.34:35550 - "GET / HTTP/1.1" 404 Not Found
+INFO:     106.75.11.34:35562 - "GET /favicon.ico HTTP/1.1" 404 Not Found
